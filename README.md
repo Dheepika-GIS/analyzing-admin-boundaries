@@ -1,8 +1,7 @@
 # spatial-analysis-with-geopandas
 A spatial analysis using GeoPandas to calculate National Highway road density per district.
-<<<<<<< HEAD
 
-# Analyzing National Highway Road Density per District in Karnataka
+## Analyzing National Highway Road Density per District in Karnataka
 
 This project calculates and visualizes the road density of National Highways in each district of Karnataka using GeoPandas and a GeoPackage file.
 
